@@ -60,6 +60,8 @@
 	"TargetPlatforms": [
 		"IOS",
 		"Mac",
-		"Windows"
+		"Windows",
+		"TVOS",
+		"Linux"
 	]
 }
