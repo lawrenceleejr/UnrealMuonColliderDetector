@@ -318,7 +318,7 @@
                         "TEXCOORD_0" : 6
                     },
                     "indices" : 7,
-                    "material" : 1
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -327,7 +327,7 @@
                         "TEXCOORD_0" : 10
                     },
                     "indices" : 11,
-                    "material" : 2
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -336,7 +336,7 @@
                         "TEXCOORD_0" : 14
                     },
                     "indices" : 15,
-                    "material" : 3
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -345,7 +345,7 @@
                         "TEXCOORD_0" : 18
                     },
                     "indices" : 19,
-                    "material" : 4
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -354,7 +354,7 @@
                         "TEXCOORD_0" : 22
                     },
                     "indices" : 23,
-                    "material" : 5
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -363,7 +363,7 @@
                         "TEXCOORD_0" : 26
                     },
                     "indices" : 27,
-                    "material" : 6
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -372,7 +372,7 @@
                         "TEXCOORD_0" : 30
                     },
                     "indices" : 31,
-                    "material" : 7
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -381,7 +381,7 @@
                         "TEXCOORD_0" : 34
                     },
                     "indices" : 35,
-                    "material" : 8
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -390,7 +390,7 @@
                         "TEXCOORD_0" : 38
                     },
                     "indices" : 39,
-                    "material" : 9
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -399,7 +399,7 @@
                         "TEXCOORD_0" : 42
                     },
                     "indices" : 43,
-                    "material" : 10
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -408,7 +408,7 @@
                         "TEXCOORD_0" : 46
                     },
                     "indices" : 47,
-                    "material" : 11
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -417,7 +417,7 @@
                         "TEXCOORD_0" : 50
                     },
                     "indices" : 51,
-                    "material" : 12
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -426,7 +426,7 @@
                         "TEXCOORD_0" : 54
                     },
                     "indices" : 55,
-                    "material" : 13
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -435,7 +435,7 @@
                         "TEXCOORD_0" : 58
                     },
                     "indices" : 59,
-                    "material" : 14
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -444,7 +444,7 @@
                         "TEXCOORD_0" : 62
                     },
                     "indices" : 63,
-                    "material" : 15
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -453,7 +453,7 @@
                         "TEXCOORD_0" : 66
                     },
                     "indices" : 67,
-                    "material" : 16
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -462,7 +462,7 @@
                         "TEXCOORD_0" : 70
                     },
                     "indices" : 71,
-                    "material" : 17
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -471,7 +471,7 @@
                         "TEXCOORD_0" : 74
                     },
                     "indices" : 75,
-                    "material" : 18
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -480,7 +480,7 @@
                         "TEXCOORD_0" : 78
                     },
                     "indices" : 79,
-                    "material" : 19
+                    "material" : 0
                 },
                 {
                     "attributes" : {
@@ -489,7 +489,7 @@
                         "TEXCOORD_0" : 82
                     },
                     "indices" : 83,
-                    "material" : 20
+                    "material" : 0
                 }
             ]
         }
